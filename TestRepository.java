@@ -1,0 +1,1 @@
+public static void main(String[] args) {System.pint.outln:"blabla "}
